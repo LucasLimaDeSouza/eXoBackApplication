@@ -8,7 +8,7 @@
 
 <h2>Funções</h2>
 <ul>
-  <li>CRUD(Metodos HTTP)</li>
+  <li>CRUD (Metodos HTTP)</li>
   <li>Requisições para ADM</li>
   <li>Requisições para usuario</li>
 </ul>
