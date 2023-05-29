@@ -2,10 +2,12 @@
     "name": "eXoBackApplication",
     "version": "2",
     "public": true,
-    "builds":{
+    "builds":[
+        {
             "src": "src/index.js",
             "use": "@vercel/node"
-    },
+        }
+    ],
     "routes": [
         {
             "src": "(.*)",
